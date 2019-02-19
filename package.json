@@ -1,8 +1,8 @@
 {
   "name": "lottie",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": null,
+  "keywords": ["lottie"],
   "main": "src/index.js",
   "dependencies": {
     "react": "16.5.2",
